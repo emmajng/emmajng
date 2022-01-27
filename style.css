@@ -11,7 +11,7 @@ margin: 20px;
 padding: 20px;}
 
 .background {
-  background-image:url("/Media/Index/bubble.png");
+  background-image:url("bubble.png");
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-position: 95% 20% !important;
